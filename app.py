@@ -8,7 +8,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional, Sequence, Set, Tuple
 
-import cv2
+
 import numpy as np
 import mediapipe as mp
 from mediapipe.tasks import python as mp_python
