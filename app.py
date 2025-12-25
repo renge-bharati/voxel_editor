@@ -8,6 +8,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional, Sequence, Set, Tuple
 
+opencv-python-headless
 
 import numpy as np
 import mediapipe as mp
